@@ -1,0 +1,26 @@
+
+                                                                                         _________ CALCULATOR _________  
+
+1. Menu Display : The code starts by displaying a user-friendly menu listing various mathematical operations. Each operation is assigned a number for user selection.
+
+2. User Input : It then prompts the user to choose an operation by entering the corresponding number. Additionally, the user is asked to input one or two numeric values, depending on the chosen operation.
+
+3. Arithmetic Operations :
+   - Addition : If the user selects addition, the code computes the sum of the two provided numbers and displays the result.
+   - Subtraction : For subtraction, it calculates the difference between the numbers and presents the result.
+   - Multiplication : When multiplication is chosen, the code performs the multiplication operation and provides the outcome.
+   - Division : Division is supported with proper error checking to prevent division by zero. It returns the quotient of the two numbers.
+   
+4. Other Mathematical Functions :
+   - Square : If the user opts for squaring a number, the code calculates the square of the first input.
+   - Power : For power operations, the code raises the first number to an exponent specified by the user.
+   - Square Root : It handles square root calculations, ensuring the input is non-negative, and displays the square root of the first input.
+   - Absolute Value : Absolute value computation is also included, providing the absolute value of the first input.
+
+5. Error Handling : The code includes error handling mechanisms. It checks for invalid inputs, such as non-numeric values, and displays appropriate error messages when necessary.
+
+6. Continuity : The program runs within a loop, allowing users to perform multiple calculations without restarting the code. Users can choose to exit the calculator when they are done.
+
+This Python code offers an interactive and versatile calculator capable of handling a variety of mathematical tasks. 
+It ensures a user-friendly experience by presenting a menu of options, conducting computations accurately, and addressing potential input errors.
+Users can utilize this calculator for a wide range of calculations and continue to do so until they decide to exit the program.
